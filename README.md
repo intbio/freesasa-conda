@@ -1,5 +1,5 @@
 # freesasa-conda
-Anaconda recipe for FreeSASA
+Anaconda recipe for (FreeSASA)[https://freesasa.github.io]
 
 
 ## Building and uploading to anaconda
@@ -12,4 +12,4 @@ Anaconda recipe for FreeSASA
 
 ## Installing freesasa python libary from Anaconda cloud
 
-`conda install -c molsim freesasa`
+`conda install -c hydroid freesasa`
