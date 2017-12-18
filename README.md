@@ -2,7 +2,7 @@
 Anaconda recipe for FreeSASA
 
 
-# Building and uploading to anaconda
+## Building and uploading to anaconda
 `conda install conda-build`
 
 `conda-build freesasa`
@@ -10,6 +10,6 @@ Anaconda recipe for FreeSASA
 `anaconda upload path_to_package`
 
 
-# Installing freesasa python libary from Anaconda cloud
+## Installing freesasa python libary from Anaconda cloud
 
 `conda install -c molsim freesasa`
