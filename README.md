@@ -1,5 +1,5 @@
 # freesasa-conda
-Anaconda recipe for (FreeSASA)[https://freesasa.github.io]
+Anaconda recipe for [FreeSASA](https://freesasa.github.io)
 
 
 ## Building and uploading to anaconda
