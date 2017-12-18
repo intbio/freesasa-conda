@@ -5,6 +5,9 @@ Anaconda recipe for [FreeSASA](https://freesasa.github.io)
 ## Building and uploading to anaconda
 ```
 conda install conda-build
+conda install anaconda-client
+anaconda login
+
 conda-build freesasa
 anaconda upload path_to_package
 ```
