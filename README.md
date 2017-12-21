@@ -1,5 +1,7 @@
 # freesasa-conda
-Anaconda recipe for [FreeSASA](https://freesasa.github.io) with Python bindings
+Anaconda recipe for [FreeSASA](https://freesasa.github.io) with Python bindings.
+Currently available for Mac, Linux 32, Linux 64.
+Windows version in development.
 
 
 ## Building and uploading to anaconda
