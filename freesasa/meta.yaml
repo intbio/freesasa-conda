@@ -18,7 +18,6 @@ requirements:
         - python
         - setuptools
         - cython
-        - mingw [win]
     run:
         - python
 
